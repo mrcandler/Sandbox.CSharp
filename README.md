@@ -1,2 +1,2 @@
 # Sandbox.CSharp
-This is sandbox for my c# development. 
+This is my sandbox for my c# development. 
